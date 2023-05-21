@@ -1,2 +1,5 @@
-# odin-recipes
-Recipe Website
+# Simple recipe website
+
+Made usign HTML & CSS
+
+2023
